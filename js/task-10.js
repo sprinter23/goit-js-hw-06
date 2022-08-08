@@ -30,6 +30,7 @@ function createBoxes(amount) {
   divBoxes.appendChild(fragment);
 }
 
+
 function destroyBoxes() {
   divBoxes.innerHTML = "";
 }
