@@ -14,4 +14,5 @@ function onChangeColorBtb(event) {
   body.style.backgroundColor = randomColor;
 
   colorName.innerHTML = randomColor;
+  
 }
